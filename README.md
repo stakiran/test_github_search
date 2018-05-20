@@ -1,8 +1,8 @@
 # test_github_search
-github.com の This repository search がどれだけ役立たないかを検証する
+github.com の This repository search がイマイチ使いづらいので検証した。
 
 # 結論
-やっぱ役立たなかったなぁ。
+部分一致じゃなくて単語一致でした。
 
 - **部分一致** 検索は使えません
 - 使えるのは単語一致のみ
