@@ -1,5 +1,4 @@
 # test_github_search
-github.com の This repository search がイマイチ使いづらいので検証した。
 
 # 結論
 部分一致じゃなくて単語一致でした。
